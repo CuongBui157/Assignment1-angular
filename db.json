@@ -1,0 +1,27 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Product B update",
+      "price": "3000",
+      "img": "anh"
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "price": 400,
+      "img": "anh"
+    },
+    {
+      "name": "Sản phảm demo 1 update",
+      "price": 500,
+      "img": "ânhr",
+      "id": 4
+    },
+    {
+      "name": "san pham 1",
+      "price": 1111,
+      "id": 5
+    }
+  ]
+}
